@@ -21,9 +21,6 @@ A web scraping project designed to gather real estate project details from the o
 ```
 MahaRERA_Project_Scraper/
 │   .gitignore
-│   output1.xlsx
-│   output2_threaded.xlsx
-│   output3.xlsx
 │   script1.ipynb
 │   script2_threading.ipynb
 │   script3.ipynb
